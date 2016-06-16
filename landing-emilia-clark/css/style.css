@@ -23,7 +23,9 @@ max-width: 60px;
 }
 
 
-
+.margin-bottom-facebook {
+  margin-bottom: 50px;
+}
 
 
 
@@ -63,7 +65,7 @@ display: block;
 
 
 .cta {
-  margin-top:60px;
+  margin-top:80px;
   padding-left: 2%;
   padding-right: 2%;
   text-align: center;
@@ -130,8 +132,8 @@ display:block;
 }
 
 .cta p {
-  padding-top: 100px;
-  font-size: 1.5em;
+  padding-top: 20px;
+  font-size: 1.2em;
 }
 
 
